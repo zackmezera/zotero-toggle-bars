@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Toggle Bars",
+  "version": "3.1.0",
+  "description": "Hide the tab bar, the reader toolbar and the reader sidebar from the View menu.",
+  "homepage_url": "https://github.com/zackmezera/zotero-toggle-bars",
+  "applications": {
+    "zotero": {
+      "id": "togglebars@zackmezera.github.io",
+      "update_url": "https://github.com/zackmezera/zotero-toggle-bars/releases/latest/download/updates.json",
+      "strict_min_version": "7.0",
+      "strict_max_version": "10.*"
+    }
+  },
+  "author": "Waleed Dahshan, Zack Mezera"
+}
